@@ -8,6 +8,7 @@
 
 std::string CEN_Project::Greeter::greeting() {
     return std::string("This is a test program for our CEN3031 Project. Hello, World! ");
+    oops!
 }
 
 int main () {
