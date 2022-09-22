@@ -7,8 +7,8 @@
 #include "app.h"
 
 std::string CEN_Project::Greeter::greeting() {
-    return std::string("This is a test program for our CEN3031 Project. Hello, World! ");
     oops!
+    return std::string("This is a test program for our CEN3031 Project. Hello, World! ");
 }
 
 int main () {
